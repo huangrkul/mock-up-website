@@ -1,0 +1,24 @@
+header {
+  height: 5vw;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1vw;
+}
+
+.logo {
+  flex: 0 0 20%;
+}
+
+.logo img {
+  width: 100%;
+}
+
+nav ul {
+  display: flex;
+}
+
+nav ul li {
+  margin-right: 1vw;
+}
+
